@@ -1,1 +1,3 @@
 # OptiOrazInstalki
+
+jakies opti pozdro
